@@ -1,0 +1,7 @@
+matplotlib: 3.10.7
+NumPy: 1.26.4
+pandas: 2.1.4
+Python: 3.10.19
+PyTorch: 2.10.0+cu128
+scikit-learn: 1.7.2
+
